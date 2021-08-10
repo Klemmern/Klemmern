@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Klemmern
 - 👀 I’m interested in icehockey & IT
 - 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on computing, coding and maybe music in the future
+- 💞️ I’m looking to collaborate on computing
 - 📫 How to reach me: mariuslivingston@gmail.com
 
 <!---
